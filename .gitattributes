@@ -1,0 +1,9 @@
+# Normalize all text files
+* text=auto
+
+# Specifically normalize these types
+*.ts text
+*.tsx text
+*.js text
+*.json text
+*.mjs text
